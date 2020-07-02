@@ -1,0 +1,25 @@
+{
+  "name": "mc-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mc-utils",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixiaolong0704/mc-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "setInterval",
+    "timer",
+    "setTimeout"
+  ],
+  "author": "lixiaolong0704",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lixiaolong0704/mc-utils/issues"
+  },
+  "homepage": "https://github.com/lixiaolong0704/mc-utils#readme"
+}
